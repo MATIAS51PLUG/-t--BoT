@@ -177,7 +177,7 @@
         loggedInID: null,
         scriptLink: "'https://rawgit.com/MATIAS51PLUG/-t--BoT/master/Dubstepbot.js",
         cmdLink: "http://en-bot-commands.jimdo.com/",
-        chatLink: "https://rawgit.com/dj-monstercat/EF-Bot/master/en.json",
+        chatLink: "https://rawgit.com/MATIAS51PLUG/-t--BoT/master/en.json",
         chat: null,
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
