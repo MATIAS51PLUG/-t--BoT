@@ -185,7 +185,7 @@
         settings: {
             botName: "dubstep_bot",
             language: "english",
-            chatLink: "https://rawgit.com/dj-monstercat/EF-Bot/master/en.json",
+            chatLink: "https://rawgit.com/MATIAS51PLUG/-t--BoT/master/en.json",
             maximumAfk: 120,
             afkRemoval: false,
             maximumDc: 60,
