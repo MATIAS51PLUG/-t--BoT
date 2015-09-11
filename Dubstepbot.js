@@ -1,10 +1,5 @@
-
 (function () {
 
-    /*window.onerror = function() {
-        var room = JSON.parse(localStorage.getItem("basicBotRoom"));
-        window.location = 'https://plug.dj' + room.name;
-    };*/
 
     API.getWaitListPosition = function(id){
         if(typeof id === 'undefined' || id === null){
