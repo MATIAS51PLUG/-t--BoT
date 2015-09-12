@@ -175,7 +175,7 @@
         status: false,
         name: "dubstep_bot",
         loggedInID: null,
-        scriptLink: "'https://rawgit.com/MATIAS51PLUG/-t--BoT/master/Dubstepbot.js",
+        scriptLink: "https://rawgit.com/MATIAS51PLUG/-t--BoT/master/Dubstepbot.js",
         cmdLink: "http://en-bot-commands.jimdo.com/",
         chatLink: "https://rawgit.com/MATIAS51PLUG/-t--BoT/master/en.json",
         chat: null,
