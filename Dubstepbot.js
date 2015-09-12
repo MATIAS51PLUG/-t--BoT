@@ -177,7 +177,7 @@
         loggedInID: null,
         scriptLink: "https://rawgit.com/MATIAS51PLUG/-t--BoT/master/Dubstepbot.js",
         cmdLink: "http://commandsdubstepbot.weebly.com/",
-        chatLink: "https://rawgit.com/MATIAS51PLUG/-t--BoT/master/langIndex.json",
+        chatLink: "https://rawgit.com/MATIAS51PLUG/-t--BoT/master/en.json",
         chat: null,
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
@@ -185,7 +185,7 @@
         settings: {
             botName: "dubstep_bot",
             language: "english",
-            chatLink: "https://rawgit.com/MATIAS51PLUG/-t--BoT/master/langIndex.json",
+            chatLink: "https://rawgit.com/MATIAS51PLUG/-t--BoT/master/en.json",
             maximumAfk: 120,
             afkRemoval: false,
             maximumDc: 60,
