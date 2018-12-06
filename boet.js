@@ -47,7 +47,7 @@
     var loadChat = function (cb) {
         if (!cb) cb = function () {
         };
-        $.get("https://rawgit.com/MATIAS51PLUG/-t--BoT/master/langIndex.json", function (json) {
+        $.get("https://cdn.jsdelivr.net/gh/MATIAS51PLUG/-t--BoT/langIndex.json", function (json) {
             var link = trapbot.chatLink;
             if (json !== null && typeof json !== "undefined") {
                 langIndex = json;
@@ -177,7 +177,7 @@
         loggedInID: null,
         scriptLink: "https://rawgit.com/MATIAS51PLUG/-t--BoT/master/Dubstepbot.js",
         cmdLink: "http://commandsdubstepbot.weebly.com/",
-        chatLink: "https://rawgit.com/MATIAS51PLUG/-t--BoT/master/en.json",
+        chatLink: "https://cdn.jsdelivr.net/gh/MATIAS51PLUG/-t--BoT/en.json",
         chat: null,
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
@@ -185,7 +185,7 @@
         settings: {
             botName: "dubstep_bot",
             language: "english",
-            chatLink: "https://rawgit.com/MATIAS51PLUG/-t--BoT/master/en.json",
+            chatLink: "https://cdn.jsdelivr.net/gh/MATIAS51PLUG/-t--BoT/en.json",
             maximumAfk: 120,
             afkRemoval: false,
             maximumDc: 60,
